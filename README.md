@@ -30,7 +30,6 @@ This Swift Playground provides an interactive experience for applying artistic s
 3. Run the playground and interact with the style transfer feature.
 
 ## Demo
-Check out the project in action:
 [![YouTube Video](https://img.youtube.com/vi/MTmifyGFKRM/0.jpg)](https://youtu.be/MTmifyGFKRM)
 
 ## How It Works
@@ -41,7 +40,3 @@ Developed by [Llogari Casas](https://www.llogaricasas.com).
 
 ## License
 This project is open-source under the MIT License. Feel free to use, modify, and contribute!
-
----
-
-Enhance your images with AI-powered artistic transformations using CoreML—give it a try today!
