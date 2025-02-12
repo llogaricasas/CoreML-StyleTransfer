@@ -1,7 +1,47 @@
-# WWDC 2018: Playground for Style Transfer with CoreML
+# Playground for Style Transfer with CoreML
 
-![alt tag](https://github.com/llogaricasas/WWDC2018/blob/master/Images/Header.png)
+![Style Transfer Header](https://github.com/llogaricasas/WWDC2018/blob/master/Images/Header.png)
 
-<p>This playground implements an interactive experience for the transfer of pre-defined artistic styles to simple images using CoreML. More precisely, this playground implements an experience similar to applications like Prisma or Lucid, with only a couple of hundred lines of code.</p>
+## Overview
+This Swift Playground provides an interactive experience for applying artistic style transfer to images using Apple's CoreML framework. Inspired by apps like Prisma and Lucid, this playground allows users to experiment with neural style transfer in just a few hundred lines of code.
 
-<p><b>YouTube link</b>:</p> https://youtu.be/MTmifyGFKRM
+## Features
+- **Real-time Style Transfer:** Apply predefined artistic styles to images.
+- **Powered by CoreML:** Utilizes machine learning models optimized for iOS.
+- **Minimal Code Complexity:** Achieves high-quality style transfer with efficient and concise Swift code.
+- **Interactive Playground:** Designed for experimentation within Xcode's playground environment.
+
+## Getting Started
+### Requirements
+- Xcode (Latest version recommended)
+- macOS with support for CoreML
+- Compatible with iOS 11+ devices
+
+### Installation
+
+### Download
+[Download the Playground](https://github.com/llogaricasas/WWDC2018/archive/refs/heads/master.zip)
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/llogaricasas/WWDC2018.git
+   ```
+2. Open the `.playground` file in Xcode.
+3. Run the playground and interact with the style transfer feature.
+
+## Demo
+Check out the project in action:
+[![YouTube Video](https://img.youtube.com/vi/MTmifyGFKRM/0.jpg)](https://youtu.be/MTmifyGFKRM)
+
+## How It Works
+This playground leverages a CoreML model trained for neural style transfer. The model takes an input image and applies a pre-defined artistic style using a convolutional neural network (CNN). The process is optimized for real-time execution on Apple devices, providing an engaging and seamless user experience.
+
+## Credits
+Developed by [Llogari Casas](https://github.com/llogaricasas).
+
+## License
+This project is open-source under the MIT License. Feel free to use, modify, and contribute!
+
+---
+
+Enhance your images with AI-powered artistic transformations using CoreML—give it a try today!
